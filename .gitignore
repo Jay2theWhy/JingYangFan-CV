@@ -1,4 +1,5 @@
 .DS_Store
-main.aux
-main.log
-main.out
+main*.aux
+main*.log
+main*.out
+texput.log
